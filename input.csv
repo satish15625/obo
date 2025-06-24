@@ -1,2 +1,6 @@
 file,start_date,end_date
+<<<<<<< HEAD
 app.py,6/15/2025,6/15/2025
+=======
+main.py,6/15/2025,6/15/2025
+>>>>>>> a241d54071d37ca7c79ebe9385f1eabdf6997535
