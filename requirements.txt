@@ -1,0 +1,6 @@
+selenium
+fitz
+frontend
+tools
+openpyxl
+pandas
